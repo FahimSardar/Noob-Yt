@@ -1,1 +1,4 @@
-BossSmp_world.aternos.me:13732
+
+ip- bosssmp_world.aternos.me
+Port- 13732
+Name- Noob Yt
